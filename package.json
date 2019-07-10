@@ -2,6 +2,7 @@
   "name": "start",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adrianvelazquez.github.io/React-app-start/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "npm": "^6.10.0",
@@ -30,7 +31,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://adrianvelazquez.github.io/React-app-start/"
+    ]
   }
 }
